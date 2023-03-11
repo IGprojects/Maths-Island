@@ -1,8 +1,13 @@
-# Maths-Island
+# Maths Island · Videojuego
+
+## Tecnologías Usadas
+  - C#
+  - UNITY IDE
 
 LINK de Descarga: https://drive.google.com/drive/folders/1sgapCIFUaVUkQIdb_TUlheham2JDWPcq?usp=sharing
 
 Juego en el que tendrás que intentar reconstruir tu avión para poder escapar de una isla desierta en la que te has estrellado. Resolviendo distintos acertijos matemáticos conseguirás los componentes necesarios para arreglar tu avión y salvarte.
+
 
 
 ![Image text](https://github.com/IGprojects/Maths-Island/blob/main/Assets/Captura1.PNG)
